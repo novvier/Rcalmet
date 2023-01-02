@@ -5,7 +5,7 @@
 #' @return A data.frame
 #' @export importarTSF
 #' @examples
-#' file_tsf <- system.file("extdata", "pasco.tsf", package="calmet")
+#' file_tsf <- system.file("extdata", "pasco.tsf", package="Rcalmet")
 #' importTSF(file_tsf, "m3d")
 #'
 

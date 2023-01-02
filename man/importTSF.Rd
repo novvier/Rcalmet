@@ -18,7 +18,7 @@ A data.frame
 Import data to TSF file generaded for METSERIES as a data.frame.
 }
 \examples{
-file_tsf <- system.file("extdata", "pasco.tsf", package="calmet")
+file_tsf <- system.file("extdata", "pasco.tsf", package="Rcalmet")
 importTSF(file_tsf, "m3d")
 
 }
